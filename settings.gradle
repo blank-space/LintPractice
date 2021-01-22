@@ -1,0 +1,4 @@
+include ':mylibrary'
+include ':lib_lint_check'
+include ':app'
+rootProject.name = "LintPractice"
